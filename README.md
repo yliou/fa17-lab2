@@ -47,7 +47,7 @@ Create the migration that will add the foreign key, `trainer_id` column to the `
 
 Run `rails db:migrate` and play around in the `rails console` to create some trainers and their pokemon!
 
-## Model-View-Contrller
+## Model-View-Controller
 
 **Step 1**
 Create a trainers controller that contains an `index` method that will allow you to fetch all trainers from your database. 
